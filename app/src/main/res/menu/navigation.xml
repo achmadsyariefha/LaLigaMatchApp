@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/prev_match"
+        android:icon="@drawable/icons8_trophy_cup_50"
+        android:title="@string/previous_match"/>
+
+    <item
+        android:id="@+id/next_match"
+        android:icon="@drawable/icons8_schedule_48"
+        android:title="@string/next_match"/>
+
+    <item
+        android:id="@+id/favorites"
+        android:icon="@drawable/ic_favorites"
+        android:title="@string/favorites_title"/>
+
+</menu>

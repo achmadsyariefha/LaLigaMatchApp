@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="home_team" type="id" />
+    <item name="home_team_score" type="id" />
+    <item name="versus" type="id" />
+    <item name="away_team_score" type="id" />
+    <item name="away_team" type="id" />
+    <item name="date" type="id" />
+    <item name="prev_match" type="id" />
+    <item name="img_prev_match" type="id" />
+    <item name="txt_prev_match" type="id" />
+    <item name="next_match" type="id" />
+    <item name="img_next_match" type="id" />
+    <item name="txt_next_match" type="id" />
+</resources>

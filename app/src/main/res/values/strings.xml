@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">La Liga Match</string>
+    <string name="date_example">Sun, 30 Sep 2018</string>
+    <string name="versus">vs</string>
+    <string name="home_example">Real Madrid</string>
+    <string name="away_example">FC Barcelona</string>
+    <string name="goals">Goals</string>
+    <string name="total_shots">Total Shots</string>
+    <string name="lineup">Lineup</string>
+    <string name="goalkeeper">GK</string>
+    <string name="defense">DF</string>
+    <string name="midfield">MF</string>
+    <string name="forward">FW</string>
+    <string name="substitutes">Sub</string>
+    <string name="favorites">Favorites</string>
+    <string name="previous_match">Previous Match</string>
+    <string name="next_match">Next Match</string>
+    <string name="favorites_title">Favorites</string>
+    <string name="away_team_badge">Away Team Badge</string>
+    <string name="home_team_badge">Home Team Badge</string>
+</resources>
